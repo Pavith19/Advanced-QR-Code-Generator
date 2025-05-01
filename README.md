@@ -87,25 +87,5 @@ No additional dependencies or build steps are required, as the project uses CDN-
 - **Font Awesome**: For icons ([Font Awesome](https://fontawesome.com)).
 - **Local Storage**: For persisting saved QR codes.
 
-## Contributing
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit them with a descriptive message:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-4. Push your changes to your fork:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request with a detailed description of your changes.
-
-Please ensure your code follows the project's coding style and includes appropriate tests.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
