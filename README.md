@@ -38,7 +38,7 @@ A feature-rich web application for creating customized QR codes with various sty
   - Keyboard navigation support.
 
 ## Demo
-Try the live demo [here](https://your-demo-link.com) (replace with your deployed link).
+Try the live demo [here](https://pavith19.github.io/Advanced-QR-Code-Generator/) 
 
 ## Installation
 To run the project locally, follow these steps:
